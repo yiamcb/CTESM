@@ -38,12 +38,10 @@ If you find this work useful, please cite our article:
 ## Datasets
 The following publicly available datasets were used in this study:
 
-- **Dataset 1**: UC San Diego Resting-State EEG Dataset from Rockhill et al.
+- **Dataset 1**: UC San Diego Resting State EEG Data from Patients with Parkinson's Disease from Rockhill et al.  
+  [DOI: 10.18112/openneuro.ds002778.v1.0.5](https://doi.org/10.18112/openneuro.ds002778.v1.0.5)
 
-  Dataset link: https://openneuro.org/datasets/ds002778/versions/1.0.5
-
-- **Dataset 2**: University of Iowa PD EEG Dataset from Anjum et al.
-
-  Dataset link: http://bit.ly/2QD3N7j
+- **Dataset 2**: University of Iowa PD EEG Dataset from Anjum et al.  
+  [DOI: 10.1016/j.parkreldis.2020.08.001](https://doi.org/10.1016/j.parkreldis.2020.08.001)
 ---
 

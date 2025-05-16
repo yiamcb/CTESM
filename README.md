@@ -1,9 +1,9 @@
 # CTESM
 A Hybrid Convolutional-Transformer Approach for Accurate EEG-Based Parkinson’s Disease Detection
 
-## Repository Structure
+This repository contains the Python implementation of the methodology used in the research article focused on **Parkinson's Disease classification using EEG signals** and a deep learning-based architecture called **Convolutional Transformer Enhanced Sequential Model (CTESM)**.
 
-This repository contains the Python implementation of the methodology used in the research article focused on **Parkinson's Disease (PD) classification using EEG signals** and a deep learning-based architecture called **Convolutional Transformer Enhanced Sequential Model (CTESM)**.
+## Repository Structure
 The original Jupyter notebook has been modularized into the following standalone Python scripts for better readability and reproducibility:
 
 - **1_data_loading_and_preprocessing.py**  

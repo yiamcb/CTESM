@@ -30,7 +30,7 @@ The original Jupyter notebook has been modularized into the following standalone
 ## Citation
 If you find this work useful, please cite our article:
 
-> Bunterngchit, C., Baniata, L. H., Albayati, H., et al.  
+> Bunterngchit, C., Baniata, L. H., Albayati, H., Baniata, M. H., Alharbi, K., Alshammari, F. H., and Kang, S.  
 > *A Hybrid Convolutional-Transformer Approach for Accurate EEG-Based Parkinson’s Disease Detection.*  
 > [Journal Name], [Volume], [Pages], [Year].  
 > [DOI link]

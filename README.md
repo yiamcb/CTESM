@@ -39,9 +39,11 @@ If you find this work useful, please cite our article:
 The following publicly available datasets were used in this study:
 
 - **Dataset 1**: UC San Diego Resting-State EEG Dataset from Rockhill et al.
+
   Dataset link: https://openneuro.org/datasets/ds002778/versions/1.0.5
 
 - **Dataset 2**: University of Iowa PD EEG Dataset from Anjum et al.
+
   Dataset link: http://bit.ly/2QD3N7j
 ---
 

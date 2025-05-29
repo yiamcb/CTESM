@@ -30,10 +30,7 @@ The original Jupyter notebook has been modularized into the following standalone
 ## Citation
 If you find this work useful, please cite our article:
 
-> Bunterngchit, C., Baniata, L. H., Albayati, H., Baniata, M. H., Alharbi, K., Alshammari, F. H., and Kang, S.  
-> *A Hybrid Convolutional-Transformer Approach for Accurate EEG-Based Parkinson’s Disease Detection.*  
-> [Journal Name], [Volume], [Pages], [Year].  
-> [DOI link]
+Bunterngchit, C., Baniata, L. H., Albayati, H., Baniata, M. H., Alharbi, K., Alshammari, F. H., & Kang, S. (2025). A Hybrid Convolutional–Transformer Approach for Accurate Electroencephalography (EEG)-Based Parkinson’s Disease Detection. *Bioengineering*, 12(6), 583. https://doi.org/10.3390/bioengineering12060583
 
 ## Datasets
 The following publicly available datasets were used in this study:
